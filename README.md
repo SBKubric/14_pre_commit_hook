@@ -1,6 +1,13 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+## Description
+
+This unique script provides 5th grades with ultimate power of solving square equations! Due to rather big developers team
+it is provided with module tests and pre-commit check.
+
+## Usage
+
+Just use from quadratic_equation import get_roots to use it in your project!
 
 # Project Goals
 
