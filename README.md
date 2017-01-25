@@ -10,8 +10,12 @@ If you want to know more about git-hook technique you could use this [link](http
 
 ## Usage
 
-Just use `from quadratic_equation import get_roots` to use it in your project! If something is wrong you will know it during
-the commit.
+Just run the script file `./init_hooks` to use pre-commit hook in your project!
+
+If you want to add extra hooks, just place them into
+`./hooks/` directory and run the `./init_hooks`.
+
+Also you can define extra scripts in the `makefile` and `./hooks/*`.
 
 # Project Goals
 
